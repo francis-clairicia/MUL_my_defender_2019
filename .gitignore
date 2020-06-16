@@ -1,0 +1,11 @@
+.vscode
+__pycache__
+*.o
+*.a
+a.out
+my_defender
+unit_tests
+coverage
+log
+settings.conf
+vgcore.*
